@@ -1,0 +1,17 @@
+C:\Users\onurc\Desktop\udemy projeler\Sinema_Bufe_Satis\bin\Debug\net8.0-windows\Sinema_Bufe_Satis.exe
+C:\Users\onurc\Desktop\udemy projeler\Sinema_Bufe_Satis\bin\Debug\net8.0-windows\Sinema_Bufe_Satis.deps.json
+C:\Users\onurc\Desktop\udemy projeler\Sinema_Bufe_Satis\bin\Debug\net8.0-windows\Sinema_Bufe_Satis.runtimeconfig.json
+C:\Users\onurc\Desktop\udemy projeler\Sinema_Bufe_Satis\bin\Debug\net8.0-windows\Sinema_Bufe_Satis.dll
+C:\Users\onurc\Desktop\udemy projeler\Sinema_Bufe_Satis\bin\Debug\net8.0-windows\Sinema_Bufe_Satis.pdb
+C:\Users\onurc\Desktop\udemy projeler\Sinema_Bufe_Satis\obj\Debug\net8.0-windows\Sinema_Bufe_Satis.Form1.resources
+C:\Users\onurc\Desktop\udemy projeler\Sinema_Bufe_Satis\obj\Debug\net8.0-windows\Sinema_Bufe_Satis.Properties.Resources.resources
+C:\Users\onurc\Desktop\udemy projeler\Sinema_Bufe_Satis\obj\Debug\net8.0-windows\Sinema_Bufe_Satis.csproj.GenerateResource.cache
+C:\Users\onurc\Desktop\udemy projeler\Sinema_Bufe_Satis\obj\Debug\net8.0-windows\Sinema_Bufe_Satis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurc\Desktop\udemy projeler\Sinema_Bufe_Satis\obj\Debug\net8.0-windows\Sinema_Bufe_Satis.AssemblyInfoInputs.cache
+C:\Users\onurc\Desktop\udemy projeler\Sinema_Bufe_Satis\obj\Debug\net8.0-windows\Sinema_Bufe_Satis.AssemblyInfo.cs
+C:\Users\onurc\Desktop\udemy projeler\Sinema_Bufe_Satis\obj\Debug\net8.0-windows\Sinema_Bufe_Satis.csproj.CoreCompileInputs.cache
+C:\Users\onurc\Desktop\udemy projeler\Sinema_Bufe_Satis\obj\Debug\net8.0-windows\Sinema_Bufe_Satis.dll
+C:\Users\onurc\Desktop\udemy projeler\Sinema_Bufe_Satis\obj\Debug\net8.0-windows\refint\Sinema_Bufe_Satis.dll
+C:\Users\onurc\Desktop\udemy projeler\Sinema_Bufe_Satis\obj\Debug\net8.0-windows\Sinema_Bufe_Satis.pdb
+C:\Users\onurc\Desktop\udemy projeler\Sinema_Bufe_Satis\obj\Debug\net8.0-windows\Sinema_Bufe_Satis.genruntimeconfig.cache
+C:\Users\onurc\Desktop\udemy projeler\Sinema_Bufe_Satis\obj\Debug\net8.0-windows\ref\Sinema_Bufe_Satis.dll
